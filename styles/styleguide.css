@@ -1,0 +1,45 @@
+:root {
+    --x-0c-2658: rgba(12, 38, 88, 1);
+    --c-1: rgba(97, 165, 194, 1);
+    --c-2: rgba(255, 200, 87, 1);
+    --c-3: rgba(240, 240, 240, 1);
+    --half-dark: rgba(248, 249, 251, 1);
+    --dark-background: rgba(0, 30, 65, 1);
+    --secondary-500: rgba(20, 21, 34, 1);
+    --primarysecond-color: rgba(89, 74, 66, 1);
+    --secondary-highlight: rgba(192, 188, 0, 1);
+    --erro: rgba(211, 13, 43, 1);
+    --gray: rgba(216, 216, 216, 1);
+    --primary-0: rgba(255, 255, 255, 1);
+    --title-font-family: "Open Sans", Helvetica;
+    --title-font-weight: 700;
+    --title-font-size: 18px;
+    --title-letter-spacing: 0px;
+    --title-line-height: normal;
+    --title-font-style: normal;
+    --tag-font-font-family: "Open Sans", Helvetica;
+    --tag-font-font-weight: 600;
+    --tag-font-font-size: 10px;
+    --tag-font-letter-spacing: 0px;
+    --tag-font-line-height: normal;
+    --tag-font-font-style: normal;
+    --regular-font-font-family: "Open Sans", Helvetica;
+    --regular-font-font-weight: 400;
+    --regular-font-font-size: 12px;
+    --regular-font-letter-spacing: 0px;
+    --regular-font-line-height: normal;
+    --regular-font-font-style: normal;
+    --file-title-font-family: "Open Sans", Helvetica;
+    --file-title-font-weight: 600;
+    --file-title-font-size: 14px;
+    --file-title-letter-spacing: 0px;
+    --file-title-line-height: normal;
+    --file-title-font-style: normal;
+    --bold-font-font-family: "Open Sans", Helvetica;
+    --bold-font-font-weight: 700;
+    --bold-font-font-size: 12px;
+    --bold-font-letter-spacing: 0px;
+    --bold-font-line-height: 13px;
+    --bold-font-font-style: normal;
+  }
+  
